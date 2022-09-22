@@ -2,3 +2,4 @@ optConfig:
   optOutStrategy: true
 optOutRepos:
   - website
+disableRepoOverride: false
